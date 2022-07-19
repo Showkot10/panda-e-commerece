@@ -1,1 +1,1 @@
-# panda-e-commerece
+# Panda-commerce
